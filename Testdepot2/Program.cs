@@ -10,6 +10,7 @@ namespace Testdepot2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bonjour!"); //on affiche dans la console le texte entre ""
         }
     }
 }
